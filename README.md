@@ -1,2 +1,2 @@
 # Movies-Recommender
-movie recommender using python, sklearn
+movie recommender using python, scikit-learn
